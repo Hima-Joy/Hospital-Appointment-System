@@ -73,11 +73,13 @@ To develop a GUI-based Hospital Appointment Booking System that:
 ## 🖼 Screenshots
 
 ### Home Interface
-"C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-02-12 123945.png"
-### Appointment Booking Interface
-"C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-02-12 124057.png"
+Screenshots/home.png
+### Form Filling
+Screenshots/formfilled.png
+### Success Interface
+Screenshots/succes.png
 ### Database Table
-"C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-02-12 124134.png"
+Screenshots/database.png
 
 ---
 
