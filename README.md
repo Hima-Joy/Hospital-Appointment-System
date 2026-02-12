@@ -79,7 +79,7 @@ To develop a GUI-based Hospital Appointment Booking System that:
 ### Success Interface
 ![Succes](screenshots/succes.png)
 ### Database Table
-![database](screenshots/database.png)
+Screenshots/database.png
 ---
 
 ## 🧪 Sample Input
