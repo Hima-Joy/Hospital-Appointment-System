@@ -70,18 +70,6 @@ To develop a GUI-based Hospital Appointment Booking System that:
 
 ---
 
-## 🖼 Screenshots
-
-### Home Interface
-![Home](screenshots/home.png)
-### Form Filling
-![Form](screenshots/formfilled.png)
-### Success Interface
-![Succes](screenshots/succes.png)
-### Database Table
-Screenshots/database.png
----
-
 ## 🧪 Sample Input
 
 PatientName: Hima 
